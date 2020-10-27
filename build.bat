@@ -1,0 +1,1 @@
+"c:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe" /in ./window-manager.ahk /out ./window-manager.exe
